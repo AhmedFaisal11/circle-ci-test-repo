@@ -1,0 +1,13 @@
+{
+  "name": "circle-CI-test-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AhmedFaisal11/circle-ci-test-repo.git",
+  "author": "AhmedFaisal11 <ahmedbinfaisal555@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "express": "^4.18.1",
+    "mocha": "^10.0.0"
+  }
+}
